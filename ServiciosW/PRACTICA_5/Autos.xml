@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="C:\Users\carlo\OneDrive\Escritorio\ServiciosW\conexion.xsl"?>
+<AUTOS>
+<AUTO>
+    <marca>AUDI</marca>
+    <modelo>A5</modelo>
+    <color>NEGRO</color>
+</AUTO>
+<AUTO>
+    <marca>MERCEDES</marca>
+    <modelo>X520</modelo>
+    <color>ROJO</color>
+</AUTO>
+<AUTO>
+    <marca>HONDA</marca>
+    <modelo>CIVIC</modelo>
+    <color>AZUL</color>
+</AUTO>
+<AUTO>
+    <marca>FERRARI</marca>
+    <modelo>SP51</modelo>
+    <color>ROJO</color>
+</AUTO>
+<AUTO>
+    <marca>FORD</marca>
+    <modelo>RAPTOR</modelo>
+    <color>NEGRO</color>
+</AUTO>
+</AUTOS>
